@@ -859,7 +859,7 @@ h1,h2,h3,h4,h5,h6 {
 .footer-container {
     width: 100%;
     min-height: 550px;
-    background-color: #171613;
+    background-color: rgb(29, 37, 71);
     padding: 30px 100px 20px;
     margin-top: 50px;
     display: flex;
@@ -967,13 +967,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 @keyframes beat {
     0% {
-        color: #171613;
+        color: rgb(29, 37, 71);
     }
     50% {
         color: #e75480;
         transform: scale(1.4);
     }
     100% {
-        color: #171613;
+        color: rgb(29, 37, 71);
     }
 }
